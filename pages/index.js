@@ -16,7 +16,7 @@ export default function Home() {
             A better way to maintain your cognitive performance on later years. 
         </p>
 
-        <img src="img/qr" alt="QR code" />
+        <img src="img/qr.png" alt="QR code" />
 
       </main>
 
