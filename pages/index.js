@@ -20,9 +20,6 @@ export default function Home() {
 
       </main>
 
-      <a href="https://platform.preview.appgyver.com/?region=appgyver.com&login=1c70a2206e6d58f40be20ed73e91058cb5374802162a67d5" >
-        Preview
-      </a>
 
       <Footer />
     </div>
